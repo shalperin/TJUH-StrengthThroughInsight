@@ -1,2 +1,2 @@
 # TJUH-StrengthThroughInsight
-Thomas Jefferson University Hospital | Strength Through Insight | Prostate Cancer Surgery Followup and Patient Reported Outcomes
+Strength through insight was a study at the Sidney Kimmel Cancer Center @ Thomas Jefferson University Hospitals.  It followed prostate cancer patients post-surgery, looking at patient reported outcomes (PRO) in the context of an iOS app.
